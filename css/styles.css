@@ -1,0 +1,14 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+#clip{
+          background: linear-gradient(to bottom, #eee, rgb(222 112 6 / 0%), #de700600),url(./images/Gay_Pride_Flag.svg);
+          -webkit-text-fill-color: transparent;
+          -webkit-background-clip: text;
+          font-weight: bold;
+          
+        }
