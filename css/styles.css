@@ -11,5 +11,8 @@ body {
           background-clip: text;
           -webkit-background-clip: text;
           font-weight: bold;
+          background-position: center center;
+          background-repeat-y: repeat;
+          background-size: 1em;
           
         }
