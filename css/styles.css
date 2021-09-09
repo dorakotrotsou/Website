@@ -6,8 +6,9 @@ body {
   text-align: center;
 }
 #clip{
-          background: linear-gradient(to bottom, #eee, rgb(222 112 6 / 0%), #de700600),url(./images/Gay_Pride_Flag.svg);
+          background: linear-gradient(to bottom, #eee, rgb(222 112 6 / 0%), #de700600),url(../images/Gay_Pride_Flag.svg);
           -webkit-text-fill-color: transparent;
+          background-clip: text;
           -webkit-background-clip: text;
           font-weight: bold;
           
